@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616979825592",
+    "project_id": "librarymanagement-6d0b3",
+    "storage_bucket": "librarymanagement-6d0b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616979825592:android:6ecd1f8aba0617bfffc54d",
+        "android_client_info": {
+          "package_name": "com.balajitech.librarymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616979825592-oi3toq3hm3cauqdcnaakjie0lg00qmat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBALPrs2SL5KZ6H_L3arH8hN-TH2KDF24E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616979825592-oi3toq3hm3cauqdcnaakjie0lg00qmat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

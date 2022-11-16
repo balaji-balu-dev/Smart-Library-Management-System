@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activities.UserDetailsActivity">
+
+    <EditText
+        android:id="@+id/PhoneNumberEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:hint="Phone Number"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/AddressEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:hint="Address"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/CityEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:hint="City"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/PinCodeExitText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:hint="Pin Code"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/UpdateProfileBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Details"
+        android:layout_margin="10dp"/>
+
+</LinearLayout>
